@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-A machine learning project that predicts whether a passenger survived the Titanic disaster.
+A beginner-friendly machine learning project that predicts whether a passenger survived the Titanic disaster.
 
 ## 🛠️ Tech Stack
 
